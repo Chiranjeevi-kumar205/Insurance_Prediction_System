@@ -1,4 +1,6 @@
 Insurance Prediction System
+
+
 Overview
 This project is a machine learning-based insurance prediction system designed to predict insurance charges based on various features such as age, sex, BMI, number of children, smoking status, and region. The goal is to develop a predictive model that can assist in estimating insurance costs for individuals.
 
